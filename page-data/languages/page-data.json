@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-all-jsx",
+    "path": "/languages/",
+    "result": {"pageContext":{"languages":[{"iso":"bcc","name":"Southern Balochi","autonym":"بلۏچی  Balòci","country_id":"PK"},{"iso":"pnb","name":"Western Panjabi","autonym":"ਪੰਜਾਬੀ","country_id":"PK"},{"iso":"urd","name":"Urdu","autonym":"اُردُو","country_id":"PK"}]}},
+    "staticQueryHashes": []}
